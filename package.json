@@ -12,6 +12,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
+    "moment": "^2.29.4",
     "nodemon": "^2.0.22"
   }
 }
